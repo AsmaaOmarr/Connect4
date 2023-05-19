@@ -18,7 +18,18 @@ This repository contains a Connect Four game implemented in Python with a graphi
 ### Prerequisites
 
 - Python 3.x
-- Tkinter library (usually included with Python installation)
+- numpy library 
+- pygame library 
+
+### library Installation
+
+```
+pip install numpy
+```
+
+```
+pip install pygame
+```
 
 ### Installation
 
