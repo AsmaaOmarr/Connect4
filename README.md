@@ -52,8 +52,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-This implementation of Connect Four was created by [Rana Gaballah] as part of a programming project. Special thanks to [My Team].
+This implementation of Connect Four was created by Rana Gaballah as part of a programming project. Special thanks to My Team.
 
 ## Contact
 
-If you have any questions or inquiries, please contact [Rana Gaballah] at [ranagaballah88@gmail.com].
+If you have any questions or inquiries, please contact Rana Gaballah at ranagaballah88@gmail.com.
