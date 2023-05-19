@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the Connect Four game with a graphical user interface (GUI) using the Pygame library. Players (AI and Computer) can play against each other in a classic game of Connect Four.
 
-![Connect Four Game Screenshot](screenshot.png)
+
 
 ## Features
 
