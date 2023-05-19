@@ -4,7 +4,6 @@ Certainly! Here's an example of a README file for the ConnectFour_Python_With_GU
 
 This repository contains a Connect Four game implemented in Python with a graphical user interface (GUI).
 
-![Connect Four Game Screenshot](screenshot.png)
 
 ## Features
 
